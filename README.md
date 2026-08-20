@@ -1,10 +1,10 @@
 # DSA---in---JAVA
 
-# 🚀 LeetCode 100 DSA Problems in Java
+**🚀 LeetCode 100 DSA Problems in Java**
 
 A structured collection of 100 LeetCode DSA problems solved in Java, designed to strengthen problem-solving skills, master core data structures & algorithms, and prepare for technical interviews.
 
-# 📌 About This Repository
+**📌 About This Repository**
 
 This repository contains 100 carefully selected LeetCode problems with solutions written in Java.
 
@@ -16,7 +16,7 @@ Each problem focuses on an important Data Structures & Algorithms (DSA) concept 
 
 This repository is part of my journey to become stronger in DSA, Java, problem solving, and technical interviews.
 
-# 🎯 Goals
+**🎯 Goals**
 🧠 Improve problem-solving and logical thinking
 💻 Master Data Structures & Algorithms
 ☕ Practice DSA using Java
@@ -27,7 +27,7 @@ This repository is part of my journey to become stronger in DSA, Java, problem s
 🚀 Build a strong GitHub DSA portfolio
 
 
-# 🧩 Topics Covered
+**🧩 Topics Covered**
 
 This repository covers the most important DSA concepts:
 
@@ -54,7 +54,7 @@ This repository covers the most important DSA concepts:
 🧠 Backtracking
 🧮 Bit Manipulation
 
-# 🧠 DSA Learning Roadmap
+**🧠 DSA Learning Roadmap**
 
 The problems are intended to be solved progressively.
 
@@ -90,7 +90,7 @@ Dynamic Programming
 
 
 
-# 🚀 My DSA Journey
+**🚀 My DSA Journey**
 
 This repository is a record of my continuous DSA practice.
 
@@ -109,7 +109,7 @@ One concept at a time.
 One step closer to becoming a better problem solver. 🚀
 
 
-# 👨‍💻 Author
+## 👨‍💻 Author
 
 Chandan Mahanta
 
@@ -120,7 +120,7 @@ GitHub: (https://github.com/CMCodeHUB/)
 LinkedIn: Chandan Mahanta
 
 
-# ⭐ Keep Learning. Keep Solving. Keep Growing.
+## ⭐ Keep Learning. Keep Solving. Keep Growing.
 100 Problems
      ↓
 Strong Fundamentals
