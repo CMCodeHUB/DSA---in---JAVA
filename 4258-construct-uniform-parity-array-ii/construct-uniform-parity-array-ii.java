@@ -11,12 +11,12 @@ class Solution {
             }
         }
 
-        // All elements are even
+
         if (!hasOdd) {
             return true;
         }
 
-        // Minimum is odd -> can make all elements odd
+
         return min % 2 != 0;
     }
 }
